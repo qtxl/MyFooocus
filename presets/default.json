@@ -35,7 +35,7 @@
     "default_scheduler": "Karras",
     "default_performance": "Speed",
     "default_prompt": "",
-    "default_prompt_negative": "",
+    "default_prompt_negative": "low quality",
     "default_styles": [
         "Fooocus V2"
     ],
